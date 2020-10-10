@@ -1,7 +1,7 @@
 Multi-module application for making orders, includes order class and customers.
 
 Application characteristics:
-- multi-module application divided into: persistence, service, ui.
+- multi-module application divided into: persistence, service, ui, wirtten in java.
 Persistence is a module that contains models, service contains business logic, and ui is used to communication.
 - the application uses the gson library to convert data from and to json format.
 - the ui module uses the spark framework to generate http requests, 
