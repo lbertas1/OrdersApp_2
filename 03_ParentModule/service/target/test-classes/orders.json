@@ -1,0 +1,322 @@
+[
+  {
+    "customer": {
+      "id": 1,
+      "name": "Wojciech",
+      "surname": "Brzeziak",
+      "age": 54,
+      "email": "wojciech@wp.pl"
+    },
+    "product": {
+      "name": "Sobieski",
+      "price": 20.0,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "id": 2,
+      "name": "Sylwia",
+      "surname": "Jajnik",
+      "age": 24,
+      "email": "sylwia@wp.pl"
+    },
+    "product": {
+      "name": "Zubrowka",
+      "price": 22.0,
+      "category": "A"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "customer": {
+      "id": 3,
+      "name": "Magda",
+      "surname": "Glowacka",
+      "age": 28,
+      "email": "magda@wp.pl"
+    },
+    "product": {
+      "name": "Olmo",
+      "price": 29.0,
+      "category": "C"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "id": 4,
+      "name": "Karolina",
+      "surname": "Kupczi",
+      "age": 29,
+      "email": "karolina@wp.pl"
+    },
+    "product": {
+      "name": "Persil",
+      "price": 7.0,
+      "category": "B"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "id": 5,
+      "name": "Ania",
+      "surname": "Miki",
+      "age": 47,
+      "email": "ania@wp.pl"
+    },
+    "product": {
+      "name": "Finlandia",
+      "price": 24.0,
+      "category": "A"
+    },
+    "quantity": 4,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "id": 6,
+      "name": "Marian",
+      "surname": "Wolski",
+      "age": 34,
+      "email": "marian@wp.pl"
+    },
+    "product": {
+      "name": "Kadarka",
+      "price": 17.0,
+      "category": "C"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "id": 1,
+      "name": "Wojciech",
+      "surname": "Brzeziak",
+      "age": 54,
+      "email": "wojciech@wp.pl"
+    },
+    "product": {
+      "name": "Gancia",
+      "price": 1.0,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "id": 2,
+      "name": "Sylwia",
+      "surname": "Jajnik",
+      "age": 24,
+      "email": "sylwia@wp.pl"
+    },
+    "product": {
+      "name": "Sobieski",
+      "price": 20.0,
+      "category": "A"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "customer": {
+      "id": 2,
+      "name": "Sylwia",
+      "surname": "Jajnik",
+      "age": 24,
+      "email": "sylwia@wp.pl"
+    },
+    "product": {
+      "name": "Krajowa",
+      "price": 16.0,
+      "category": "C"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 21
+    }
+  },
+  {
+    "customer": {
+      "id": 3,
+      "name": "Magda",
+      "surname": "Glowacka",
+      "age": 28,
+      "email": "magda@wp.pl"
+    },
+    "product": {
+      "name": "Zubrowka",
+      "price": 22.0,
+      "category": "A"
+    },
+    "quantity": 3,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "id": 3,
+      "name": "Magda",
+      "surname": "Glowacka",
+      "age": 28,
+      "email": "magda@wp.pl"
+    },
+    "product": {
+      "name": "Finlandia",
+      "price": 24.0,
+      "category": "A"
+    },
+    "quantity": 4,
+    "orderDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "id": 4,
+      "name": "Karolina",
+      "surname": "Kupczi",
+      "age": 29,
+      "email": "karolina@wp.pl"
+    },
+    "product": {
+      "name": "Persil",
+      "price": 7.0,
+      "category": "B"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "id": 4,
+      "name": "Karolina",
+      "surname": "Kupczi",
+      "age": 29,
+      "email": "karolina@wp.pl"
+    },
+    "product": {
+      "name": "Olmo",
+      "price": 29.0,
+      "category": "C"
+    },
+    "quantity": 5,
+    "orderDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "id": 5,
+      "name": "Ania",
+      "surname": "Miki",
+      "age": 47,
+      "email": "ania@wp.pl"
+    },
+    "product": {
+      "name": "Gancia",
+      "price": 1.0,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "customer": {
+      "id": 6,
+      "name": "Marian",
+      "surname": "Wolski",
+      "age": 34,
+      "email": "marian@wp.pl"
+    },
+    "product": {
+      "name": "Gruszki",
+      "price": 19.0,
+      "category": "B"
+    },
+    "quantity": 2,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  },
+  {
+    "customer": {
+      "id": 1,
+      "name": "Wojciech",
+      "surname": "Brzeziak",
+      "age": 54,
+      "email": "wojciech@wp.pl"
+    },
+    "product": {
+      "name": "Zubrowka",
+      "price": 22.0,
+      "category": "A"
+    },
+    "quantity": 1,
+    "orderDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 1
+    }
+  }
+]
